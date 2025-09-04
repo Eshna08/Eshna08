@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,angular,python,typescript,php,java,mysql,postgresql,mongodb,tensorflow,c,html,css,js,nodejs,express&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,python,typescript,php,java,mysql,postgresql,mongodb,tensorflow,c,html,css,js,nodejs,express&perline=10)](https://skillicons.dev)
 
 ---
 
