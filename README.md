@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eshna</h1>
-<h3 align="center">Writing code, drinking coffee, and pretending I know what I’m doing ☕👨‍💻</h3>
+<h3 align="center">Writing code, drinking coffee, and pretending I know what I’m doing ☕👩🏻‍💻</h3>
 
 - 🔭 I’m currently working on [SolarSavvy](https://solar-savvy-india.vercel.app/)
 
